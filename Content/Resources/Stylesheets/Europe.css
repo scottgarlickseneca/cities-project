@@ -1,0 +1,57 @@
+/*<meta />*/
+
+p
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	margin-bottom: 0pt;
+	mc-heading-level: 1;
+	color: #2F5496;
+	font-size: 16pt;
+	font-weight: normal;
+}
+
+img.img_1
+{
+	mso-wrap-distance-bottom: 0;
+	mso-wrap-distance-left: 0;
+	mso-wrap-distance-right: 0;
+	mso-wrap-distance-top: 0;
+}
+

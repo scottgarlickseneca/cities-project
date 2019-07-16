@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="PhoneNumber"
+    Comment=""
+    EvaluatedDefinition="858-123-4567">858-123-4567</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="Product A">Product A</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="Product B">Product B</Variable>
+</CatapultVariableSet>

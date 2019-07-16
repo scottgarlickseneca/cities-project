@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[&quot;Conditions.Product A&quot;] exclude[&quot;Conditions.Product B&quot;] "
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

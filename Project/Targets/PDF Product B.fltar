@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[&quot;Conditions.Product B&quot;] exclude[&quot;Conditions.Product A&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="Variables/ProductName">Product B</Variable>
+  </Variables>
+</CatapultTarget>
